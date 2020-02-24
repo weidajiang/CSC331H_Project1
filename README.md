@@ -1,5 +1,5 @@
 
-#CSC 331H        PROJECT    ---       PART 1       
+# CSC 331H        PROJECT    ---       PART 1       
 
 
 ## Design and implement a class representing a circular doubly linked list. The class must have the following requirements:
@@ -13,3 +13,5 @@
 
 
 ## Write a menu-driven program to test all the functions in your class. To test your iterators, include in your menu options ## to print the list front to back and back to front.
+
+### Author: Weida Jiang
